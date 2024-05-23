@@ -1,2 +1,2 @@
 # repo-remoto
-repositório criando antes de clonal.
+repositório criado antes de clonal.
